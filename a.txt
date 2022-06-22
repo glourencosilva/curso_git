@@ -1,4 +1,1 @@
-Testando 
-Uma 
-Atualização
-de arquivo.
+Testando uma atualização de arquivo.
